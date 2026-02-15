@@ -6,7 +6,7 @@ Edward H. Hagen
 
 <!-- badges: start -->
 
-<!-- badges: end -->
+DOI: <https://doi.org/10.5281/zenodo.18645441> <!-- badges: end -->
 
 The code in this repo generates a plot of the hunting data in:
 
