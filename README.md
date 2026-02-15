@@ -125,7 +125,21 @@ harvests (N=2178), the mean hunting return for men was 9.5 kg, and for
 women 1.4 kg. However, men returned empty handed in 47.8% of trips, and
 women in only 29.2% of trips.
 
-Finally, here is the distribution of returns by sex and society:
+Women were much more likely to hunt in groups than men (the entire
+dataset):
+
+    #>                            
+    #>                                 F     M
+    #>   Cooperative                 272  3764
+    #>   Cooperative/Loose             0     2
+    #>   Cooperative/Teaching          0     5
+    #>   Independent                  37 19076
+    #>   Loose                         0   199
+    #>   Loose/Cooperative/Unknown     0   417
+    #>   Loose/Cooprative              0     1
+
+Finally, here is the distribution of returns by sex and society in the
+dataset that only omits mixed sex hunting trips:
 
 <figure>
 <img src="plot_koster.svg"

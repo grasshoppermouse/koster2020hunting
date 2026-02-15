@@ -106,6 +106,12 @@ ggplot(hunters, aes(Age)) +
 
 To assess sex differences in hunting returns (harvests), I removed `r mixed` hunting trips from the data (`r pct_mixed`%) that included hunting parties with both males and females. Males returned a total of `r harvest_males` metric tons of meat, and females `r harvest_females` metric tons. Removing hunting trips with pooled harvests (N=`r pooled`), the mean hunting return for men was `r mean_harvest_m` kg, and for women `r mean_harvest_f` kg. However, men returned empty handed in `r zeros_m`% of trips, and women in only `r zeros_f`% of trips.
 
-Finally, here is the distribution of returns by sex and society:
+Women were much more likely to hunt in groups than men (the entire dataset):
+
+```{r, echo=FALSE}
+table(all_data$group_type, all_data$sex)
+```
+
+Finally, here is the distribution of returns by sex and society in the dataset that only omits mixed sex hunting trips:
 
 ![Returns of subsistence hunting trips (N=23,652) by 1,518 members of 40 forager and agricultural societies. Row labels refer to the group and country from which the data were collected (some studies did not include group names). Red labels indicate studies with one or more female authors. Points indicate returns of hunting trips (in kilograms). Point size indicates the number of returns of that mass. X-axis is on a log scale (1 kg is added to the mass of each return so that a return of 0, i.e., returning empty-handed, is well-defined on a log scale). Rows are sorted by the mean return for each society. Individual: returns are attributable to individual hunters. Pooled: returns cannot be attributed to individual hunters. Data from Koster et al. (2020). It is important to note that these data are not necessarily representative of hunting patterns in foraging groups, and that there are certainly biases](plot_koster.svg)
