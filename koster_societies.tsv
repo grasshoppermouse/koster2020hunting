@@ -1,0 +1,41 @@
+Number	Code	Country	Group	Dataset	Female_coauthorship
+1	CRE	Canada	Cree	Winterhalder	F
+2	MYA	Belize	Maya	Pacheco	F
+3	MYN	Nicaragua	Mayangna	Koster	F
+4	QUI	Ecuador	Quichua	Siren	F
+5	ECH	Colombia	Embera Chami	Ross	F
+6	WAO	Ecuador	Waorani	Franzen	T
+7	BAR	Venezuela	Bari	Beckerman	F
+8	INU	Canada	Inuit	Ready	T
+9	MTS	Peru	Matsigenka	Yu_et_al	T
+10	PIR	Peru	Piro	Alvard	F
+11	CLB	Colombia		Van_Vliet_et_al_South_America_sites	T
+12	PME	Venezuela	Pume	Kramer_Greaves	T
+13	TS1	Bolivia	Tsimane	Fernandez_Llamazares	T
+14	TS2	Bolivia	Tsimane	Reyes_Garcia	T
+15	TS3	Bolivia	Tsimane	Trumble_Gurven	F
+16	ACH	Paraguay	Aché	Hill_Kintigh	F
+17	GB1	Gabon		Coad	T
+18	GB2	Gabon		Van_Vliet_et_al_Gabon	T
+19	GB3	Gabon		Van_Vliet_et_al_Ovan	T
+20	CN1	DR Congo		Van_Vliet_et_al_Phalanga	T
+21	GB4	Gabon		Van_Vliet_et_al_Djoutou	T
+22	BK1	Cameroon	Baka	Gallois	T
+23	BK2	Cameroon	Baka	Duda	T
+24	CN2	Congo		Van_Vliet_et_al_Ingolo	T
+25	CN3	Congo		Van_Vliet_et_al_Ngombe	T
+26	BFA	Central African Republic	Bofi and Aka	Lupo_Schmitt	T
+27	CN4	DR Congo		Van_Vliet_et_al_Baego	T
+28	BIS	Zambia	Valley Bisa	Marks	F
+29	HEH	Tanzania		Nielsen	F
+30	DLG	Russia	Dolgan	Ziker	F
+31	BTK	Malaysia	Batek	Venkataraman_et_al	F
+32	PN1	Indonesia	Punan	Gueze	T
+33	PN2	Indonesia	Punan	Napitupulu	T
+34	AGT	Philippines	Agta	Headland	F
+35	MRT	Australia	Martu	Bird_Bird_Codding	T
+36	NUA	Indonesia	Nuaulu	Ellen	F
+37	NIM	Indonesia	Nimboran	Pangau_Adam	T
+38	NEN	Papua New Guinea	Nen	Healey_Nen_PNG	F
+39	MAR	Papua New Guinea	Maring	Healey	F
+40	WOL	Papua New Guinea	Wola	Sillitoe	F

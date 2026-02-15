@@ -1,0 +1,12 @@
+Package: koster2020hunting
+Title: An Analysis of Koster et al. (2020) hunting data
+Version: 0.0.1
+Authors@R: 
+    person("Edward", "Hagen", , "ehagen@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5758-9093"))
+Description: The code in this project produces a plot of hunting returns by society and sex
+License: CC BY 4.0
+Encoding: UTF-8
+Language: en
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
