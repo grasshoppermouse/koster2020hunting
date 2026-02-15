@@ -129,9 +129,9 @@ Finally, here is the distribution of returns by sex and society:
 
 <figure>
 <img src="plot_koster.svg"
-alt="Returns of subsistence hunting trips (N=23,768) by 1,524 members of 40 forager and agricultural societies. Row labels refer to the group and country from which the data were collected (some studies did not include group names). Red labels indicate studies with one or more female authors. Points indicate returns of hunting trips (in kilograms). Point size indicates the number of returns of that mass. X-axis is on a log scale (1 kg is added to the mass of each return so that a return of 0, i.e., returning empty-handed, is well-defined on a log scale). Rows are sorted by the mean return for each society. Individual: returns are attributable to individual hunters. Pooled: returns cannot be attributed to individual hunters. Data from Koster et al. (2020). It is important to note that these data are not necessarily representative of hunting patterns in foraging groups, and that there are certainly biases" />
+alt="Returns of subsistence hunting trips (N=23,652) by 1,518 members of 40 forager and agricultural societies. Row labels refer to the group and country from which the data were collected (some studies did not include group names). Red labels indicate studies with one or more female authors. Points indicate returns of hunting trips (in kilograms). Point size indicates the number of returns of that mass. X-axis is on a log scale (1 kg is added to the mass of each return so that a return of 0, i.e., returning empty-handed, is well-defined on a log scale). Rows are sorted by the mean return for each society. Individual: returns are attributable to individual hunters. Pooled: returns cannot be attributed to individual hunters. Data from Koster et al. (2020). It is important to note that these data are not necessarily representative of hunting patterns in foraging groups, and that there are certainly biases" />
 <figcaption aria-hidden="true">Returns of subsistence hunting trips
-(N=23,768) by 1,524 members of 40 forager and agricultural societies.
+(N=23,652) by 1,518 members of 40 forager and agricultural societies.
 Row labels refer to the group and country from which the data were
 collected (some studies did not include group names). Red labels
 indicate studies with one or more female authors. Points indicate
